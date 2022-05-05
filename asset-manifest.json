@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/RafaelCortezweb/static/css/main.dfddde76.css",
-    "main.js": "/RafaelCortezweb/static/js/main.930cc899.js",
+    "main.js": "/RafaelCortezweb/static/js/main.5a76f454.js",
     "static/media/me-about2.jpg": "/RafaelCortezweb/static/media/me-about2.46d0188f038051092f46.jpg",
     "static/media/Resume_Rafael_Cortez.pdf": "/RafaelCortezweb/static/media/Resume_Rafael_Cortez.cc7fb730eec6e9fc0ac2.pdf",
     "static/media/portfolio.png": "/RafaelCortezweb/static/media/portfolio.1c0c15680a655442ea5e.png",
     "static/media/me.png": "/RafaelCortezweb/static/media/me.967409d39612243047d3.png",
     "index.html": "/RafaelCortezweb/index.html",
     "main.dfddde76.css.map": "/RafaelCortezweb/static/css/main.dfddde76.css.map",
-    "main.930cc899.js.map": "/RafaelCortezweb/static/js/main.930cc899.js.map"
+    "main.5a76f454.js.map": "/RafaelCortezweb/static/js/main.5a76f454.js.map"
   },
   "entrypoints": [
     "static/css/main.dfddde76.css",
-    "static/js/main.930cc899.js"
+    "static/js/main.5a76f454.js"
   ]
 }
